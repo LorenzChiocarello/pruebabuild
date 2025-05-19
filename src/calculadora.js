@@ -6,4 +6,8 @@ function resta(a, b) {
   return a - b;
 }
 
-module.exports = { suma, resta };
+function multiplicacion(a, b) {
+  return a * b;
+}
+
+module.exports = { suma, resta, multiplicacion };
