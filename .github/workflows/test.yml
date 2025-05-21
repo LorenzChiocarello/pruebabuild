@@ -1,4 +1,4 @@
-name: Run Tests
+name: Corriendo tests
 
 on: [push, pull_request]
 
