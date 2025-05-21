@@ -10,6 +10,6 @@ describe('Funciones de calculadora', () => {
   });
 
   test('multiplicacion 2 * 2 debe ser igual a 4', ( )=> {
-    expect(multiplicacion(2, 2)).toBe(5);
+    expect(multiplicacion(2, 2)).toBe(4);
   });
 });
